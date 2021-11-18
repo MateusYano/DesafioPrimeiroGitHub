@@ -1,0 +1,5 @@
+Aulas já executadas:
+
+introdução a git/github
+introdução ao IDE
+logica de programação
